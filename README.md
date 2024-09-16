@@ -1,4 +1,5 @@
 ### Developed by Thiyagarajan A
+### Reg.no: 212222240110
 ### Date: 
 # Ex.No: 05  IMPLEMENTATION OF TIME SERIES ANALYSIS AND DECOMPOSITION
 
@@ -14,7 +15,7 @@ To Illustrates how to perform time series analysis and decomposition on the mont
 
 ### PROGRAM
 
-```
+```python
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
